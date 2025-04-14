@@ -1,0 +1,9 @@
+1,Alex,borg el-arab,true
+2,Alex,new borg el-arab,false
+3,Alex,alex city,true
+4,Cairo,nasr city,true
+5,Cairo,maadi,false
+6,Cairo,heliopolis,true
+7,Giza,dokki,false
+8,Giza,mohandeseen,false
+9,Giza,6th of October,false

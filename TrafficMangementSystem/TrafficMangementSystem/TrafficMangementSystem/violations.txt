@@ -1,0 +1,9 @@
+6,1,Distracted driving,2024-12-16,100.0,12,1,Alex,borg el-arab
+7,2,Speeding,2024-12-16,500.0,2,6,Cairo,heliopolis
+3,3,Driving under the influence,2024-12-18,100.0,1,1,Alex,borg el-arab
+4,4,Running a red light,2024-12-18,300.0,1,1,Alex,borg el-arab
+5,5,Reckless driving,2024-12-18,100.0,1,1,Alex,borg el-arab
+6,1,Speeding,2024-12-20,500.0,1,1,Alex,borg el-arab
+7,2,Driving under the influence,2024-12-20,100.0,1,1,Alex,borg el-arab
+8,1,Speeding,2024-12-21,500.0,1,1,Alex,borg el-arab
+9,1,Speeding,2024-12-21,500.0,1,1,Alex,borg el-arab

@@ -1,0 +1,7 @@
+1#Ziad#123#Truck#Abc447#Active
+2#Ziad#124#Car#CBC11#Active
+3#Kareem#10#Car#CBC114#Active
+4#mohamed#47#Bike#QWE555#Active
+5#Ali#55#car#123asd#Active
+6#mohamed#150#car#123#Active
+7#Ziad#123#car#ADE#Active

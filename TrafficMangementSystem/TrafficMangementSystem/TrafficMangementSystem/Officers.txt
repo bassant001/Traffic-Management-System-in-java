@@ -1,0 +1,13 @@
+1#ali#110#1#Alex#borg el-arab
+2#omar#111#2#Alex#new borg el-arab
+3#alaa#112#3#Alex#alex city
+4#ahmed#113#5#Cairo#nasr city
+5#abdo#114#6#Cairo#maadi
+6#hesham#115#7#Cairo#heliopolis
+7#mohamed#116#8#Giza#dokki
+8#ziad#555#8#Giza#mohandeseen
+9#hasan#117#9#Giza#6th of October
+10#kamal#666#9#Giza#mohandeseen
+11#mohamed#7777#1#Alex#borgel-arab
+12#1#5555#1#Alex#nozha
+13#fady#7878#1#Alex#nozha
