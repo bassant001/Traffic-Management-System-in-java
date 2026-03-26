@@ -143,17 +143,16 @@ java Main
 
 ## 🚀 My Contribution
 
-* Implemented the **Traffic Officer module**, including:
+* Implemented core functionalities of the **Traffic Officer module**
 
   * Recording traffic violations with validation
   * Automatic fine calculation based on violation type
   * Viewing and managing recorded violations
 
-* - Contributed to the **notification system**, including:
-
-  * Sending notifications to vehicle owners when violations occur
-  * Ensuring notifications are displayed only once
-  * Removing notifications after viewing to prevent duplication
+- Contributed significantly to the **notification system**, including:
+  - Implementing notification delivery for vehicle owners after violations
+  - Developing the logic for displaying notifications only once and clearing them after viewing
+  - Integrating notifications with the violation and vehicle-owner flow
 
 * Built core **validation logic**, including:
 
